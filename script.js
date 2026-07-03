@@ -9,25 +9,25 @@ const perguntas = [
         enunciado: "Como você vai para a escola?",
         alternativas: [
             {
-                texto: "De carro",
-                afirmacao: "Um cordeiro saltitante. "
+                texto: "De carro.",
+                afirmacao: "chega rápido e faz um trajeto pequeno."
             },
             {
-                texto: "Um Cachorro",
-                afirmacao: "Um cachorro leal e grande"
+                texto: "de ônibu.s",
+                afirmacao: "chega mais tarde e faz um trajeto mais longo."
             }
         ]
     },
     {
-        enunciado: "Qual o caminho ele tomou?",
+        enunciado: "O que você faz no final de semana?",
         alternativas: [
             {
-                texto: "Um montanha de lava",
-                afirmacao: "Caminhou sem rumo até encontrar uma grande montanha"
+                texto: "Vou para célula.",
+                afirmacao: "Minha mãe me leva, faço a comunhão, como e volto embora."
             },
             {
-                texto: "Um deserto",
-                afirmacao: "Caminhou sem direção até chegar num deserto, arido e seco"
+                texto: "Vou para Chácara dos meus avós.",
+                afirmacao: "faço um trajeto de uma hora com meus pais e aproveito o resto do dia tranquilamente com meus familiares."
             }
         ]
     },
@@ -45,14 +45,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "O que você faz no seu tempo livre?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "Assisto Tik Tok.",
+                afirmacao: "Perco meu tempo procastinando no Tik Tok."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
+                texto: "Escuto podcast",
                 afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
             }
         ]
